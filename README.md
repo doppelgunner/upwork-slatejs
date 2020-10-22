@@ -1,1 +1,1 @@
-DEMO here: [http://doppelgunner.github.io/slatejs-texteditorhtml](http://doppelgunner.github.io/slatejs-texteditorhtml)
+DEMO here: [http://doppelgunner.github.io/upwork-slatejs](http://doppelgunner.github.io/upwork-slatejs)
