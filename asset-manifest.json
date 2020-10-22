@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/upwork-slatejs/static/css/main.7f9caff9.chunk.css",
+    "main.js": "/upwork-slatejs/static/js/main.3c7dea91.chunk.js",
+    "main.js.map": "/upwork-slatejs/static/js/main.3c7dea91.chunk.js.map",
+    "runtime-main.js": "/upwork-slatejs/static/js/runtime-main.7aaa3ec7.js",
+    "runtime-main.js.map": "/upwork-slatejs/static/js/runtime-main.7aaa3ec7.js.map",
+    "static/js/2.bb2eac6c.chunk.js": "/upwork-slatejs/static/js/2.bb2eac6c.chunk.js",
+    "static/js/2.bb2eac6c.chunk.js.map": "/upwork-slatejs/static/js/2.bb2eac6c.chunk.js.map",
+    "index.html": "/upwork-slatejs/index.html",
+    "precache-manifest.2bec1b5d658b8cf653c7122f8eec0495.js": "/upwork-slatejs/precache-manifest.2bec1b5d658b8cf653c7122f8eec0495.js",
+    "service-worker.js": "/upwork-slatejs/service-worker.js",
+    "static/css/main.7f9caff9.chunk.css.map": "/upwork-slatejs/static/css/main.7f9caff9.chunk.css.map",
+    "static/js/2.bb2eac6c.chunk.js.LICENSE.txt": "/upwork-slatejs/static/js/2.bb2eac6c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/upwork-slatejs/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7aaa3ec7.js",
+    "static/js/2.bb2eac6c.chunk.js",
+    "static/css/main.7f9caff9.chunk.css",
+    "static/js/main.3c7dea91.chunk.js"
+  ]
+}
